@@ -1,6 +1,7 @@
+# Vehicle Price Prediction: 
 In this project, develoved a predictive model to classify vehicle prices using a dataset sourced from Kaggle that includes 1,002 vehicles with 17 descriptive features such as make, model, year, engine specifications, fuel type, mileage, transmission, trim, body style, color, and drivetrain. The motivation behind this study is to better understand the key factors that influence vehicle prices. I am using logistic regression and stacking; the project aims to identify the most influential features impacting vehicle prices. The goal is to build a robust and transparent model that can support better decision-making for both sellers and buyers in the vehicle market, and to compare the effectiveness of various modeling approaches and feature selection.
-Problem Statement:
+# Problem Statement:
 The problem addressed in this project is to accurately predict and classify vehicles into price categories based on their features. 
-Which vehicle features are the most significant predictors of price, and how do they influence vehicle value?
-How do different data scaling techniques (StandardScaler, MinMaxScaler, RobustScaler) impact the performance of the logistic regression model in classifying vehicle prices? 1
-What are the performance metrics (Accuracy, Precision, Recall, F1-score) of the developed classification models across various scalers, and which scaler yields the most stable and optimal results?
+- Which vehicle features are the most significant predictors of price, and how do they influence vehicle value?
+- How do different data scaling techniques (StandardScaler, MinMaxScaler, RobustScaler) impact the performance of the logistic regression model in classifying vehicle prices? 1
+- What are the performance metrics (Accuracy, Precision, Recall, F1-score) of the developed classification models across various scalers, and which scaler yields the most stable and   optimal results?
